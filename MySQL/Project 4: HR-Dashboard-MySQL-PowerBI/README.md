@@ -11,7 +11,7 @@ This project showcases a complete **end-to-end HR Analytics workflow** using:
 
 The goal of this project is to analyze HR employee data, derive meaningful insights using SQL, and visualize those insights through an interactive Power BI dashboard.
 
-DashBoard
+## DashBoard
 ![Dashboard](https://github.com/Muhammedthwaha/SQL-Projects/blob/main/MySQL/Project%204%3A%20HR-Dashboard-MySQL-PowerBI/Page_%201.png)
 
 ---
